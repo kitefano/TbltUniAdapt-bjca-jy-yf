@@ -1,0 +1,17 @@
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方-统一适配\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方-统一适配\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方-统一适配\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方-统一适配\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方-统一适配\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方-统一适配\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方-统一适配\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方-统一适配\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方-统一适配\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Demo\BJCADemo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
