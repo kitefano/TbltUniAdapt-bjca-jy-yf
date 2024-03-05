@@ -1,0 +1,23 @@
+﻿生成启动时间为 2024/2/29 19:08:35。
+     1>项目“N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-cpp\test001-cpp.vcxproj”在节点 6 上(Build 个目标)。
+     1>ClCompile:
+         S:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\test001-cpp.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         S:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\test001-cpp.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "test001-cpp.cpp" "test001-cppDlg.cpp"
+         test001-cpp.cpp
+         test001-cppDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\test001-cpp.res" test001-cpp.rc 
+       Link:
+         S:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\Release\test001-cpp.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"S:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\Release\test001-cpp.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\Release\test001-cpp.lib" /MACHINE:X86 /SAFESEH "Release\test001-cpp.res"
+         Release\stdafx.obj
+         "Release\test001-cpp.obj"
+         "Release\test001-cppDlg.obj"
+         正在生成代码
+         已完成代码的生成
+         test001-cpp.vcxproj -> N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\Release\test001-cpp.exe
+     1>已完成生成项目“N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-cpp\test001-cpp.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.92

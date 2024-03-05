@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>启动评价器</title>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+     <script type="text/javascript">
+
+      var _timeOut=10;
+		var ret=0;
+		function callJS(str1,str2,str3) {
+			
+			
+			document.getElementById("mTellerNo").innerHTML=str1;
+			document.getElementById("mTellerName").innerHTML=str2;
+			document.getElementById("mImg").src=str3;
+			//_timeOut = 10;			
+		    	return ret;
+
+		}
+
+		function clock() {
+			if (_timeOut > 0)
+			{_timeOut--;}
+ 			document.getElementById("mTimeOut").innerHTML=_timeOut;
+	  	//	$('#mTimeOut').html(_timeOut);
+	  	//	if (_timeOut == 0) {
+	  	//		window.close();
+	  	//	}
+	  	}
+
+	  	function veryPleased(){
+	  //		alert(captrue.Pleased(1));
+			ret=1;
+	  	}
+
+	  	function pleased(){
+	  //		alert(captrue.Pleased(2));
+			ret=2;
+	  	}
+
+	  	function common(){
+	  //		alert(captrue.Pleased(3));
+			ret=3;
+	  	}
+
+	  	function veryUnpleased(){
+	  //		alert(captrue.Pleased(4));
+			ret=4;
+	  	}
+      </script>
+
+      <style type="text/css">
+		body {
+		  background:url("images/bg_evalue.jpg") no-repeat;
+		  font-family: "华文细黑";
+		  width: 100%;
+		  height:602px;
+		  background-size: 101%;
+		  box-sizing: border-box;
+		  font-style: border;
+		  font-size: 22px;
+		}
+
+		#mImg {
+			position: absolute;
+			top: 332px;
+			left: 225px;
+			width: 120px;
+			height: 170px;
+		}
+
+		#mTellerNo{
+			position: absolute;
+			top: 362px;
+			left: 415px;
+		}
+
+		#mTellerName{
+			position: absolute;
+			top: 408px;
+			left: 415px;
+		}
+
+		.level_start{
+			position: absolute;
+			top: 458px;
+			left: 415px;
+			width: 200px;
+			height: 25px;
+		}
+
+		#mInfo{
+			position: absolute;
+			top: 278px;
+			left: 570px;
+		}
+
+		#mTimeOut{
+			position: absolute;
+			top: 237px;
+			left: 955px;
+			color: red;
+		}
+
+      </style>
+
+   </head>
+
+	<body onLoad="setInterval('clock()',1000)">
+			
+<div style="text-align:center;" >
+<object classid="clsid:675F282B-C42C-4E4E-8189-FB66247B03F7" id="captrue"  width="0" height="0" ></object>
+</div>
+
+		<div id='mTimeOut'>10</div>
+		<img id="mImg">
+		<div id='mTellerNo'>0001</div>
+		<div id='mTellerName'>张三</div>
+		<img class="level_start" src="./images/level_star.png">
+
+		<div onclick="veryPleased()" style="position: absolute;top: 378px;left: 700px;height: 70px;width: 70px;">
+		    <img src="./images/img_very_pleased.png" style="width: 100%; height:100%;"><br>
+		    <span style="font-size: 14px; color: black; padding-left:7px;">非常满意</span>
+		</div>
+
+		<div onclick="pleased()" style="position: absolute;top: 378px;left: 800px;height: 70px;width: 70px;">
+		    <img src="./images/img_pleased.png" style="width: 100%; height:100%;"><br>
+		    <span style="font-size: 14px; color: black; padding-left:20px;">满意</span>
+		</div>
+
+		<div onclick="common()" style="position: absolute;top: 378px;left: 900px;height: 70px;width: 70px;">
+		    <img src="./images/img_common.png" style="width: 100%; height:100%;"><br>
+		    <span style="font-size: 14px; color: black; padding-left:20px;">一般</span>
+		</div>
+
+		<div onclick="veryUnpleased()" style="position: absolute;top: 378px;left: 1000px;height: 70px;width: 70px;">
+		    <img src="./images/img_very_unpleased.png" style="width: 100%; height:100%;"><br>
+		    <span style="font-size: 14px; color: black;">非常不满意</span>
+		</div>
+
+   </body>
+
+</html>

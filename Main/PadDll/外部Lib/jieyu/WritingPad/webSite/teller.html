@@ -1,0 +1,74 @@
+﻿
+  <html>
+
+   <head>
+      <title>显示柜员信息牌</title>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+      
+
+
+      <script language="javascript">
+		function callJS(str1,str2,str3) {
+		//	var jasonstr=JSON.parse(str);
+		//	var tellerNo=document.getElementById("mTellerNo");
+		//	tellerNo.innerHTML=jasonstr.tellerNo;
+		//	var tellerName=document.getElementById("mTellerName")
+		//	tellerName.innerHTML=jasonstr.tellerName;
+		//	var tellerPhoto=document.getElementById("myimg")
+		//	tellerPhoto.src=jasonstr.tellerPhoto;
+		//	alert(document.getElementById("mTellerNo").innerHTML);
+		//	alert(str1);
+			document.getElementById("mTellerNo").innerHTML=str1;
+			document.getElementById("mTellerName").innerHTML=str2;
+			document.getElementById("myimg").src=str3;
+		    	return "这是从JS获得的返回值:"+str2;
+		}
+
+      </script>
+
+      <style type="text/css">
+		body {
+		  background:url("images/bg_teller_info.jpg") no-repeat;
+		  font-family: "华文细黑";
+		  width: 100%;
+		  height:602px;
+		  background-size: 101%;
+		  box-sizing: border-box;
+		  font-style: border;
+		  font-size: 22px;
+		}
+
+		#myimg {
+			position: absolute;
+			top: 270px;
+			left: 235px;
+			width: 200px;
+			height: 300px;
+		}
+
+		#mTellerNo{
+			position: absolute;
+			top: 400px;
+			left: 750px;
+		}
+
+		#mTellerName{
+			position: absolute;
+			top: 325px;
+			left: 750px;
+		}
+
+      </style>
+
+   </head>
+
+      <body>
+		<img id="myimg">
+		<div id="mTellerNo">1</div>
+		<div id="mTellerName">1</div>
+      </body>
+
+
+
+</html>

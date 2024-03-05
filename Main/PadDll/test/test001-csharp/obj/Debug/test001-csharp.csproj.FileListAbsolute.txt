@@ -1,0 +1,10 @@
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\bin\Debug\test001.exe.config
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\bin\Debug\test001.exe
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\bin\Debug\test001.pdb
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\obj\Debug\test001.Form1.resources
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\obj\Debug\test001.Properties.Resources.resources
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\obj\Debug\test001-csharp.csproj.GenerateResource.Cache
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\obj\Debug\test001.exe
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\obj\Debug\test001.pdb
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\bin\Debug\MySql.Data.dll
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\obj\Debug\test001-csharp.csprojResolveAssemblyReference.cache

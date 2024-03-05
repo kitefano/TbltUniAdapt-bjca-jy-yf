@@ -1,0 +1,13 @@
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\bin\Debug\test001.exe.config
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\bin\Debug\test001.exe
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\bin\Debug\test001.pdb
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\bin\Debug\PadDll.dll
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\bin\Debug\Interop.ASAppComLib.dll
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\bin\Debug\PadDll.pdb
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\obj\Debug\test001.Form1.resources
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\obj\Debug\test001.Properties.Resources.resources
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\obj\Debug\test001.csproj.GenerateResource.Cache
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\obj\Debug\test001.exe
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\obj\Debug\test001.pdb
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\bin\Debug\Newtonsoft.Json.dll
+N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test001\obj\Debug\test001.csprojResolveAssemblyReference.cache

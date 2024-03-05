@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>读取身份证</title>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      
+     
+      <script type="text/javascript">
+
+		function callJS(str) {
+			if (str.name == undefined) {
+				return '这是从JS获得的返回值 1';
+			} 
+
+	  		$('#mName').html("姓名："+str.name);
+			$('#mSex').html("性别："+str.sex);
+			$('#mNation').html("民族："+str.nation);
+			$('#mBirth').html("出生日期："+str.birth);
+			$('#mAddress').html("住址："+str.addr);
+			$('#mIDNo').html("公民身份证号："+str.id_num);
+			$("#mImg").attr("src","data:image/jpeg;base64,"+str.base64_ID);
+		
+		    return "这是从JS获得的返回值 2";
+		}
+
+		// 刚进入界面如果没有读取到身份证时，
+		// 安卓端采集到身份证后，调用js这个接口
+		function androidToJs(str){
+			$('#mName').html("姓名："+str.name);
+			$('#mSex').html("性别："+str.sex);
+			$('#mNation').html("民族："+str.nation);
+			$('#mBirth').html("出生日期："+str.birth);
+			$('#mAddress').html("住址："+str.addr);
+			$('#mIDNo').html("公民身份证号："+str.id_num);
+			$("#mImg").attr("src","data:image/jpeg;base64,"+str.base64_ID);
+
+			return "已经调用显示身份证接口";
+		}
+
+
+	  	function confirm() {
+	  		JsToAndroid.ReadIDCardConfirm();
+	  	}
+
+	  	function change() {
+	  		JsToAndroid.ReadIDCardCancel();
+	  	}
+
+      </script>
+
+      <style type="text/css">
+		body {
+		  background:url("images/bg_evalue.jpg") no-repeat;
+		  font-family: "华文细黑";
+		  width: 100%;
+		  height:602px;
+		  background-size: 101%;
+		  box-sizing: border-box;
+		  font-style: border;
+		  font-size: 22px;
+		}
+
+		#mImg {
+			position: absolute;
+			top: 312px;
+			left: 275px;
+			width: 150px;
+			height: 170px;
+		}
+
+		#confirm_btn{
+			position: absolute;
+			top: 570px;
+			left: 780px;
+			background: green;
+			font-style: border;
+			font-size: 30px;
+			width: 100px;
+			height: 50px;
+		}
+
+		#change_btn{
+			position: absolute;
+			top: 570px;
+			left: 920px;
+			background: orange;
+			font-style: border;
+			font-size: 30px;
+			width: 100px;
+			height: 50px;
+		}
+
+
+      </style>
+
+   </head>
+
+	<body>
+		<img id="mImg">
+		
+		<div id="mName" style="position: absolute;top: 222px;left: 500px;"></div>
+		<div id="mSex" style="position: absolute;top: 258px;left: 500px;"></div>
+		<div id="mNation" style="position: absolute;top: 294px;left: 500px;"></div>
+		<div id="mBirth" style="position: absolute;top: 330px;left: 500px;"></div>
+		<div id="mAddress" style="position: absolute;top: 366px;left: 500px;width: 380px"></div>
+		<div id="mIDNo" style="position: absolute;top: 430px;left: 500px;"></div>
+
+ 		<button id="confirm_btn" onclick="confirm()">确 认</button>
+		<button id="change_btn" onclick="change()">更 正</button>
+   </body>
+
+</html>

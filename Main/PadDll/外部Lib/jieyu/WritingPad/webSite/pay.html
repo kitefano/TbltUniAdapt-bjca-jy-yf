@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>显示支付信息牌</title>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+      <script type="text/javascript">
+
+      	var _timeOut= 10;
+		function callJS(str1,str2) {
+			document.getElementById("mContent").innerHTML=str1;
+			document.getElementById("mImg").src=str2;
+		//	$('#mTimeOut').html(str.timeOut);
+			
+
+		    return "这是从JS获得的返回值::"+str1;
+		}
+
+		function clock() {
+			if (_timeOut > 0)
+			{_timeOut--;}
+ 			document.getElementById("mTimeOut").innerHTML=_timeOut;
+	  	//	$('#mTimeOut').html(_timeOut);
+	  	//	if (_timeOut == 0) {
+	  	//		window.close();
+	  	//	}
+	  	}
+
+      </script>
+
+      <style type="text/css">
+		body {
+		  background:url("images/bg_pay.jpg") no-repeat;
+		  font-family: "华文细黑";
+		  width: 100%;
+		  height:602px;
+		  background-size: 101%;
+		  box-sizing: border-box;
+		  font-style: border;
+		  font-size: 22px;
+		}
+
+		#mImg {
+			position: absolute;
+			top: 255px;
+			left: 232px;
+			height: 310px;
+			width: 310px;
+		}
+
+		#mTimeOut{
+			position: absolute;
+			top: 212px;
+			left: 1055px;
+			color: red;
+		}
+
+		#mContent{
+			position: absolute;
+			top: 258px;
+			left: 755px;
+		}
+
+      </style>
+
+   </head>
+
+	<body onLoad="setInterval('clock()',1000)">
+<div style="text-align:center;" >
+<object classid="clsid:675F282B-C42C-4E4E-8189-FB66247B03F7" id="captrue"  width="0" height="0" ></object>
+</div>
+		<img id="mImg">
+		<div id='mTimeOut'>10</div>
+		<div id='mContent'>订单号、付款金额</div>
+   </body>
+
+</html>

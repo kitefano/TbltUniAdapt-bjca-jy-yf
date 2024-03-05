@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>显示叫号信息牌</title>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+      <script type="text/javascript">
+		function callJS(str1,str2,str3,str4) {
+			document.getElementById("mTellerNo").innerHTML=str1;
+			document.getElementById("mTellerName").innerHTML=str2;
+			document.getElementById("mImg").src=str3;
+			document.getElementById("mNo").innerHTML=str4;
+
+		    	return "这是从JS获得的返回值:"+str2;
+		}
+      </script>
+
+      <style type="text/css">
+		body {
+		  background:url("images/bg_evalue.jpg") no-repeat;
+		  font-family: "华文细黑";
+		  width: 100%;
+		  height:602px;
+		  background-size: 101%;
+		  box-sizing: border-box;
+		  font-style: border;
+		  font-size: 22px;
+		}
+
+		#mImg {
+			position: absolute;
+			top: 300px;
+			left: 200px;
+			width: 200px;
+			height: 260px;
+		}
+
+		#mTellerNo{
+			position: absolute;
+			top: 362px;
+			left: 500px;
+		}
+
+		#mTellerName{
+			position: absolute;
+			top: 458px;
+			left: 500px;
+		}
+
+		#mInfo{
+			position: absolute;
+			top: 350px;
+			left: 750px;
+		}
+
+		#mNo{
+			color: red;
+			font-size: 40px;
+			font-style: border;
+		}
+
+      </style>
+
+   </head>
+
+	<body>
+		<img id="mImg">
+		<div id='mTellerNo'>0001</div>
+		<div id='mTellerName'>张三</div>
+		<div id='mInfo'>请 &nbsp;<span id="mNo">B0001</span>&nbsp;号<br>到本窗口办理业务</div>
+   </body>
+
+</html>
