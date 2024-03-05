@@ -7,6 +7,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JYMFCAppActiveX", "JYMFCApp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{21CA2E46-9C46-47FC-A90B-07D0EEC0718C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JYMFCAppActiveXGetDevNum", "JYMFCAppActiveXGetDevNum\JYMFCAppActiveXGetDevNum.vcxproj", "{5F560D96-8A9B-4871-AFAD-2818D253F62A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "JYMFCAppActiveX-Setup1", "JYMFCAppActiveX-Setup1\JYMFCAppActiveX-Setup1.vdproj", "{FFE6F8FA-D2E3-440F-9951-5A53E7A67EFF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "JYMFCAppActiveXGetDevNum-Setup1", "JYMFCAppActiveXGetDevNum-Setup1\JYMFCAppActiveXGetDevNum-Setup1.vdproj", "{FCF5A712-FCD3-4609-A844-3DE2CDD14E82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +27,14 @@ Global
 		{21CA2E46-9C46-47FC-A90B-07D0EEC0718C}.Debug|Win32.Build.0 = Debug|Win32
 		{21CA2E46-9C46-47FC-A90B-07D0EEC0718C}.Release|Win32.ActiveCfg = Release|Win32
 		{21CA2E46-9C46-47FC-A90B-07D0EEC0718C}.Release|Win32.Build.0 = Release|Win32
+		{5F560D96-8A9B-4871-AFAD-2818D253F62A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F560D96-8A9B-4871-AFAD-2818D253F62A}.Debug|Win32.Build.0 = Debug|Win32
+		{5F560D96-8A9B-4871-AFAD-2818D253F62A}.Release|Win32.ActiveCfg = Release|Win32
+		{5F560D96-8A9B-4871-AFAD-2818D253F62A}.Release|Win32.Build.0 = Release|Win32
+		{FFE6F8FA-D2E3-440F-9951-5A53E7A67EFF}.Debug|Win32.ActiveCfg = Debug
+		{FFE6F8FA-D2E3-440F-9951-5A53E7A67EFF}.Release|Win32.ActiveCfg = Release
+		{FCF5A712-FCD3-4609-A844-3DE2CDD14E82}.Debug|Win32.ActiveCfg = Debug
+		{FCF5A712-FCD3-4609-A844-3DE2CDD14E82}.Release|Win32.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
