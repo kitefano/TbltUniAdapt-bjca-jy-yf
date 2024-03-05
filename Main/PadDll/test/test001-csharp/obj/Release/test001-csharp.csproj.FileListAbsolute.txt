@@ -8,3 +8,14 @@ N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一�
 N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\bin\Release\Newtonsoft.Json.dll
 N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\obj\Release\test001.exe
 N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\test\test001-csharp\obj\Release\test001.pdb
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\test\test001-csharp\obj\Release\test001.Form1.resources
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\test\test001-csharp\obj\Release\test001.Properties.Resources.resources
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\test\test001-csharp\obj\Release\test001-csharp.csproj.GenerateResource.Cache
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\test\test001-csharp\bin\Release\test001.exe.config
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\test\test001-csharp\bin\Release\test001.exe
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\test\test001-csharp\bin\Release\test001.pdb
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\test\test001-csharp\bin\Release\MySql.Data.dll
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\test\test001-csharp\bin\Release\Newtonsoft.Json.dll
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\test\test001-csharp\obj\Release\test001-csharp.csprojResolveAssemblyReference.cache
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\test\test001-csharp\obj\Release\test001.exe
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\test\test001-csharp\obj\Release\test001.pdb

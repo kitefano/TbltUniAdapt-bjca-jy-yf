@@ -6,3 +6,11 @@ N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一�
 N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\PadDll\bin\Release\Newtonsoft.Json.dll
 N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\PadDll\obj\Release\PadDll.dll
 N:\obsidian\xjcaWork\Project\2023\bjca-捷宇-有方\bjca-捷宇-有方-统一适配Pro\Main\PadDll\PadDll\obj\Release\PadDll.pdb
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\PadDll\bin\Release\PadDll.dll.config
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\PadDll\bin\Release\PadDll.dll
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\PadDll\bin\Release\PadDll.pdb
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\PadDll\bin\Release\Interop.ASAppComLib.dll
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\PadDll\bin\Release\MySql.Data.dll
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\PadDll\bin\Release\Newtonsoft.Json.dll
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\PadDll\obj\Release\PadDll.dll
+N:\vscode111\111Project\TbltUniAdaptPro\Main\PadDll\PadDll\obj\Release\PadDll.pdb
